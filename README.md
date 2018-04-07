@@ -11,9 +11,12 @@ Instead of messing with:
 
 This component lets you draw your time range and be done with it.
 
-# Installation
+![](ss1.png)
+![](ss2.png)
 
-```
+# Installation and usage
+
+```bash
 git clone git@github.com:nii236/range-selector.git
 cd range-selector
 yarn
